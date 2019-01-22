@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 import SearchBar from "./SearchBar";
 import unsplash from "../api/unsplash";
 import ImageList from './ImageList';
